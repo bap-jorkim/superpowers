@@ -1,0 +1,11 @@
+{
+  "name": "march-3/dispatching-parallel-agents",
+  "version": "0.1.0",
+  "private": false,
+  "summary": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+  "skills": {
+    "dispatching-parallel-agents": {
+      "path": "SKILL.md"
+    }
+  }
+}
